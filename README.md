@@ -6,7 +6,7 @@ I'm a Computer Science graduate with hands-on experience in IT support, software
 
 My experience includes supporting Windows and macOS environments, troubleshooting hardware and software issues, working with networking technologies, developing web applications, testing APIs, managing databases, and supporting users in technical environments.
 
-I enjoy solving technical problems, learning new technologies, and building practical solutions that combine software development with IT infrastructure.
+I enjoy solving technical problems, learning new technologies, and building practical solutions across software development, IT systems, and infrastructure.
 
 ---
 
